@@ -7,4 +7,6 @@ int main(){
   scanf("%d",&a);
   printf("Hello World\n");
   printf("%d",a);
+  int m=a*a;
+  printf("%d",m);
 }
